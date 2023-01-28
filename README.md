@@ -27,7 +27,7 @@ This is a simple iOS chat application built using SwiftUI. The application allow
 Feel free to submit pull requests, and open issues for any bugs or feature requests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 This is a basic application meant for learning and educational purposes only, it is not production ready and it might lack some important features and security considerations.
